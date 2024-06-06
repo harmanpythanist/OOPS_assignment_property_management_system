@@ -1,1 +1,2 @@
 The task is to create a technical solution for a real world problem. The main focus is not the solution itself, but how we approach the problem, plan for the design of its solution and finally output a technical solution of that problem. We are going to use object oriented modeling tool, UML (Unified Modeling Language) 2.0 to design the solution of this real world scenario. UML is a graphical way of describing computer systems.
+In .py files you will be able you see each class seperately and in .ipnyb file you will be able to see whole code at one place.
